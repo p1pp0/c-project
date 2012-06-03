@@ -1,4 +1,4 @@
 c-project
 =========
 
-my c projects collection
+my c projects collectionEach folders contain one project
